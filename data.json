@@ -1,0 +1,21 @@
+[
+    {
+        "provenance": "youtube",
+        "uri":"youtube",
+        "qualified":true
+        },
+    {
+        "provenance": "github",
+        "uri":"github",
+        "qualified":true
+        },
+    {
+        "provenance": "nlm umls",
+        "uri":"nlm umls",
+        "qualified":false,
+        "bonus": {
+            "name": "library"
+         }
+        }
+
+]
