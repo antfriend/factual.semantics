@@ -1,21 +1,27 @@
 [
     {
-        "provenance": "youtube",
-        "uri":"youtube",
+        "provenance": "pubmed",
+        "url":"https://pubmed.ncbi.nlm.nih.gov/28031068/?format=pubmed",
+        "title": "What defines mindfulness-based programs? The warp and the weft",
         "qualified":true
-        },
+    },
+    {
+        "provenance": "pubmed",
+        "url":"https://pubmed.ncbi.nlm.nih.gov/35634214/?format=pubmed",
+        "title": "Meditators' Non-academic Definition of Mindfulness",
+        "qualified":true
+    },
     {
         "provenance": "github",
-        "uri":"github",
+        "url":"github",
         "qualified":true
-        },
+    },
     {
         "provenance": "nlm umls",
-        "uri":"nlm umls",
+        "url":"nlm umls",
         "qualified":false,
         "bonus": {
             "name": "library"
-         }
-        }
-
+            }
+    }
 ]
