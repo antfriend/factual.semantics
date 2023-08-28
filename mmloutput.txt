@@ -1,0 +1,9 @@
+Txt001|MMI|3.68|Mindfulness|C3542996|[menp]|"Mindfulness"-text-0-"mindfulness"--0|text|0/11|F02.463.551;F04.754.137.350.500
+Txt001|MMI|1.84|Cognitive Therapy|C0009244|[topp]|"CBT"-text-0-"CBT"--0|text|16/3|F04.754.137.350
+Txt001|MMI|1.84|Color Blindness, Blue|C0155017|[dsyn]|"CBT"-text-0-"CBT"--0|text|16/3|x.x.x.x
+Txt001|MMI|1.38|Andorra|C0002838|[geoa]|"AND"-text-0-"and"--0|text|12/3|Z01.542.049
+Txt001|MMI|0.46|And|C1515981|[idcn]|"And"-text-0-"and"--0|text|12/3|
+Txt001|MMI|0.46|Mental concentration|C0086045|[menp]|"mindfulness"-text-0-"mindfulness"--0|text|0/11|
+Txt001|MMI|0.46|OPN1SW gene|C1412770|[gngm]|"CBT"-text-0-"CBT"--0|text|16/3|
+Txt001|MMI|0.46|RelationshipConjunction - and|C1550557|[inpr]|"and"-text-0-"and"--0|text|12/3|
+
