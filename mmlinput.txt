@@ -1,2 +1,2 @@
-Txt001|mindfulness benefits
-Txt002|meditation practices
+t001|mindfulness benefits
+t002|meditation practices

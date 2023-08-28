@@ -1,8 +1,8 @@
-Txt002|MMI|5.99|meditation|C0150277|[menp]|"meditation"-text-0-"meditation"--0|text|0/10|E02.190.525.374;F04.754.137.750.500;E02.190.901.455
-Txt002|MMI|0.46|Meditation Therapy|C0814263|[topp]|"Meditation"-text-0-"meditation"--0|text|0/10|
-Txt002|MMI|0.46|Practice Experience|C0237607|[menp]|"practices"-text-0-"practices"--0|text|11/9|
-Txt002|MMI|0.46|Religious Affiliation - Meditation|C1552052|[fndg]|"Meditation"-text-0-"meditation"--0|text|0/10|
-Txt001|MMI|3.68|Mindfulness|C3542996|[menp]|"Mindfulness"-text-0-"mindfulness"--0|text|0/11|F02.463.551;F04.754.137.350.500
-Txt001|MMI|0.46|Benefit|C0814225|[qnco]|"benefits"-text-0-"benefits"--0|text|12/8|
-Txt001|MMI|0.46|Mental concentration|C0086045|[menp]|"mindfulness"-text-0-"mindfulness"--0|text|0/11|
+t001|MMI|3.68|Mindfulness|C3542996|[menp]|"Mindfulness"-text-0-"mindfulness"--0|text|0/11|F02.463.551;F04.754.137.350.500
+t001|MMI|0.46|Benefit|C0814225|[qnco]|"benefits"-text-0-"benefits"--0|text|12/8|
+t001|MMI|0.46|Mental concentration|C0086045|[menp]|"mindfulness"-text-0-"mindfulness"--0|text|0/11|
+t002|MMI|5.99|meditation|C0150277|[menp]|"meditation"-text-0-"meditation"--0|text|0/10|E02.190.525.374;F04.754.137.750.500;E02.190.901.455
+t002|MMI|0.46|Meditation Therapy|C0814263|[topp]|"Meditation"-text-0-"meditation"--0|text|0/10|
+t002|MMI|0.46|Practice Experience|C0237607|[menp]|"practices"-text-0-"practices"--0|text|11/9|
+t002|MMI|0.46|Religious Affiliation - Meditation|C1552052|[fndg]|"Meditation"-text-0-"meditation"--0|text|0/10|
 
