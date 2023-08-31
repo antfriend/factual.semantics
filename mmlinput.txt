@@ -1,2 +1,2 @@
-t001|mindfulness benefits
-t002|meditation practices
+title|What defines mindfulness-based programs? The warp and the weft.
+abs1|There has been an explosion of interest in mindfulness-based programs (MBPs) such as Mindfulness-Based Stress Reduction (MBSR) and Mindfulness-Based Cognitive Therapy.

@@ -1,8 +1,28 @@
-t001|MMI|3.68|Mindfulness|C3542996|[menp]|"Mindfulness"-text-0-"mindfulness"--0|text|0/11|F02.463.551;F04.754.137.350.500
-t001|MMI|0.46|Benefit|C0814225|[qnco]|"benefits"-text-0-"benefits"--0|text|12/8|
-t001|MMI|0.46|Mental concentration|C0086045|[menp]|"mindfulness"-text-0-"mindfulness"--0|text|0/11|
-t002|MMI|5.99|meditation|C0150277|[menp]|"meditation"-text-0-"meditation"--0|text|0/10|E02.190.525.374;F04.754.137.750.500;E02.190.901.455
-t002|MMI|0.46|Meditation Therapy|C0814263|[topp]|"Meditation"-text-0-"meditation"--0|text|0/10|
-t002|MMI|0.46|Practice Experience|C0237607|[menp]|"practices"-text-0-"practices"--0|text|11/9|
-t002|MMI|0.46|Religious Affiliation - Meditation|C1552052|[fndg]|"Meditation"-text-0-"meditation"--0|text|0/10|
+abs1|MMI|7.37|Mindfulness|C3542996|[menp]|"Mindfulness"-text-2-"mindfulness"--0,"Mindfulness"-text-30-"Mindfulness"--0|text|43/11;131/11|F02.463.551;F04.754.137.350.500
+abs1|MMI|1.84|Cognitive Therapy|C0009244|[topp]|"Cognitive Therapy"-text-36-"Cognitive Therapy"--0|text|149/17|F04.754.137.350
+abs1|MMI|1.38|Andorra|C0002838|[geoa]|"AND"-text-28-"and"--0|text|127/3|Z01.542.049
+abs1|MMI|1.38|Blast Injuries|C0005700|[inpo]|"explosion"-text-0-"explosion"--0|text|18/9|C26.120.126
+abs1|MMI|1.38|Explosion|C0015329|[phpr]|"Explosion"-text-0-"explosion"--0|text|18/9|N06.230.208
+abs1|MMI|1.38|Programs|C3484370|[ftcn]|"Programs"-text-6-"programs"--0|text|61/8|V02.355.750
+abs1|MMI|0.92|Base - General Qualifier|C1705938|[idcn]|"Based"-text-4-"based"--0,"Based"-text-32-"Based"--0|text|55/5;143/5|
+abs1|MMI|0.92|Basis - conceptual entity|C1527178|[ftcn]|"Based"-text-4-"based"--0,"Based"-text-32-"Based"--0|text|55/5;143/5|
+abs1|MMI|0.92|Mental concentration|C0086045|[menp]|"mindfulness"-text-2-"mindfulness"--0,"mindfulness"-text-30-"Mindfulness"--0|text|43/11;131/11|
+abs1|MMI|0.92|Mindfulness Relaxation|C2985553|[menp]|"Mindfulness-Based Stress Reduction"-text-22-"Mindfulness-Based Stress Reduction"--0,"MBSR"-text-25-"MBSR"--0|text|85/34;121/4|
+abs1|MMI|0.46|And|C1515981|[idcn]|"And"-text-28-"and"--0|text|127/3|
+abs1|MMI|0.46|Have|C3539897|[qlco]|"Has"-text-0-"has"--0|text|6/3|
+abs1|MMI|0.46|Interest|C0543488|[menp]|"Interest"-text-0-"interest"--0|text|31/8|
+abs1|MMI|0.46|Medical Device Explosion Issue|C4522129|[fndg]|"Explosion"-text-0-"explosion"--0|text|18/9|
+abs1|MMI|0.46|Meditation-Based Stress Reduction Program|C4527300|[topp]|"MBSR"-text-25-"MBSR"--0|text|121/4|
+abs1|MMI|0.46|Programs - Publication Format|C0376691|[inpr]|"Programs"-text-6-"programs"--0|text|61/8|
+abs1|MMI|0.46|RelationshipConjunction - and|C1550557|[inpr]|"and"-text-28-"and"--0|text|127/3|
+title|MMI|3.68|Mindfulness|C3542996|[menp]|"Mindfulness"-text-0-"mindfulness"--0|text|13/11|F02.463.551;F04.754.137.350.500
+title|MMI|1.38|Andorra|C0002838|[geoa]|"AND"-text-0-"and"--0|text|50/3|Z01.542.049
+title|MMI|1.38|Programs|C3484370|[ftcn]|"Programs"-text-0-"programs"--0|text|31/8|V02.355.750
+title|MMI|0.46|And|C1515981|[idcn]|"And"-text-0-"and"--0|text|50/3|
+title|MMI|0.46|Base - General Qualifier|C1705938|[idcn]|"Based"-text-0-"based"--0|text|25/5|
+title|MMI|0.46|Basis - conceptual entity|C1527178|[ftcn]|"Based"-text-0-"based"--0|text|25/5|
+title|MMI|0.46|Mental concentration|C0086045|[menp]|"mindfulness"-text-0-"mindfulness"--0|text|13/11|
+title|MMI|0.46|Programs - Publication Format|C0376691|[inpr]|"Programs"-text-0-"programs"--0|text|31/8|
+title|MMI|0.46|RelationshipConjunction - and|C1550557|[inpr]|"and"-text-0-"and"--0|text|50/3|
+title|MMI|0.46|VWA1 gene|C1823652|[gngm]|"WARP"-text-0-"warp"--0|text|45/4|
 
